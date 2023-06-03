@@ -31,13 +31,13 @@
 ### SAD(System Architecture Diagram)
 
 <p align="left">
-  <img src="images/SAD.jpg" alt="before-log" width="70%" height="400">
+  <img src="images/SAD.jpg" alt="before-log" width="85%" height="450">
 </p>
 
 ### ERD(ER-Diagram)
 
 <p align="left">
-  <img src="images/ERD.png" alt="before-log" width="250" height="300">
+  <img src="images/ERD.png" alt="before-log" width="300" height="350">
 </p>
 
 ### 앱 찾기 기능
